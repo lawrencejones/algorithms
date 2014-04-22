@@ -1,3 +1,6 @@
 [submodule "interleave"]
 	path = interleave
 	url = https://gist.github.com/11158519.git
+[submodule "merge_sort"]
+	path = merge_sort
+	url = https://gist.github.com/10779033.git
