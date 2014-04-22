@@ -4,3 +4,6 @@
 [submodule "merge_sort"]
 	path = merge_sort
 	url = https://gist.github.com/10779033.git
+[submodule "string_matching"]
+	path = string_matching
+	url = https://gist.github.com/10738507.git
