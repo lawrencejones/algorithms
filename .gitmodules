@@ -7,9 +7,9 @@
 [submodule "string_matching"]
 	path = string_matching
 	url = https://gist.github.com/10738507.git
-[submodule "n-coins"]
-	path = n-coins
-	url = https://gist.github.com/11238283
 [submodule "sub_sequence"]
 	path = sub_sequence
 	url = https://gist.github.com/11270873
+[submodule "n_coins"]
+	path = n_coins
+	url = https://gist.github.com/11238283.git
