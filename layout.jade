@@ -1,0 +1,18 @@
+mixin scripts
+  script(src='/bower/jquery/dist/jquery.js')
+  script(src='/bower/angular/angular.js')
+  script(src='/bower/ui.bootstrap/src/modal/modal.js')
+  script(src='/bower/bootstrap/dist/js/bootstrap.js')
+
+mixin stylesheets
+  link(rel='stylesheet', type='text/css', href='/bower/bootstrap/dist/css/bootstrap.css')
+  link(rel='stylesheet', type='text/css', href='/bower/font-awesome/css/font-awesome.css')
+
+doctype html
+html(lang='en-US', ng-app='algorithms')
+  head
+    title Algorithms
+    +stylesheets()
+  body
+    .container
+      != html
