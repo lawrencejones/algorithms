@@ -10,3 +10,6 @@
 [submodule "n-coins"]
 	path = n-coins
 	url = https://gist.github.com/11238283
+[submodule "sub_sequence"]
+	path = sub_sequence
+	url = https://gist.github.com/11270873
