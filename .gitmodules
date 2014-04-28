@@ -13,3 +13,6 @@
 [submodule "n_coins"]
 	path = n_coins
 	url = https://gist.github.com/11238283.git
+[submodule "knapsack"]
+	path = knapsack
+	url = https://gist.github.com/11359382
