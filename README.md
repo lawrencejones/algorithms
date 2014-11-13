@@ -1,5 +1,5 @@
-Algoithms
-=========
+Algorithms
+==========
 
 Small collection of useful algorithms in a variety of languages (I lie, mostly coffeescript...)
 
